@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GPS Reader</string>
+    <string name="warning_permission_not_granted">Permission Not Granted</string>
+</resources>
